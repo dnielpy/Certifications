@@ -11,6 +11,6 @@ Link: [Platzi](https://platzi.com/r/dnielquesada/).
 
 ## English B1 Certification 🏅
 
-![English B1 Certification](b1-english-certification.png)
+![English B1 Certification](english-certification.png)
 
 Link: [Platzi](https://platzi.com/r/dnielquesada/).
