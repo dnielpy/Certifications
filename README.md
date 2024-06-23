@@ -2,6 +2,12 @@
 
 This repository contains my professional certifications.
 
+## English B1 Certification 🏅
+
+![English B1 Certification](english-certification.png)
+
+Link: [Platzi](https://platzi.com/r/dnielquesada/).
+
 ## Java Basic Certifications 🏅
 
 ![Java Basic Certifications](basic-java-certification.png)
@@ -9,8 +15,9 @@ This repository contains my professional certifications.
 Link: [Platzi](https://platzi.com/r/dnielquesada/).
 
 
-## English B1 Certification 🏅
+## C# Basic Certifications 🏅
 
-![English B1 Certification](english-certification.png)
+![C# Basic Certifications](basic-csharp-certification.png)
 
 Link: [Platzi](https://platzi.com/r/dnielquesada/).
+
